@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/2101038/worldwithoutv2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/2101038/worldwithoutv2/Content/ThirdPerson/Blueprints/BP_Button.uasset",
+				"D:/2101038/worldwithoutv2/Content/ThirdPerson/Blueprints/BP_NPC01.uasset",
+				"D:/2101038/worldwithoutv2/Content/ThirdPerson/Maps/MainMap.umap",
+				"D:/2101038/worldwithoutv2/Content/ThirdPerson/Blueprints/UI/WB_ButtonCounter.uasset",
 				"C:/Users/Eva/Documents/Unreal Projects/ba3a/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Eva/Documents/Unreal Projects/ba3a/Content/ThirdPerson/Maps/MainMap.umap",
 				"C:/Users/Eva/Documents/Unreal Projects/ba3a/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
