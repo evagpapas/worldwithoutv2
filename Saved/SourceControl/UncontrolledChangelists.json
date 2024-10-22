@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/2101038/GitHub2/Content/ThirdPerson/Blueprints/BP_MasterNPC.uasset",
+				"D:/2101038/GitHub2/Content/ThirdPerson/Blueprints/BP_MAInteractable.uasset",
+				"D:/2101038/GitHub2/Content/ThirdPerson/Maps/MainMap.umap",
+				"D:/2101038/GitHub2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Eva/Documents/Unreal Projects/worldwithoutv2/Content/ThirdPerson/Maps/MainMap.umap",
 				"C:/Users/Eva/Documents/Unreal Projects/worldwithoutv2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Eva/Documents/Unreal Projects/worldwithoutv2/Content/Characters/Models/hamsterballsmooth.uasset",
